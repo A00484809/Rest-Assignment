@@ -1,4 +1,3 @@
-// src/components/AboutMe.jsx
 import React from "react";
 import profilePic from "./my-pic.png";
 
